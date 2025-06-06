@@ -90,3 +90,8 @@ Use of inline SVG graphics for scalable and responsive icons
 Structuring modular and readable code for real-time user feedback
 
 This project not only solidifies core front-end development skills but also provides a practical understanding of how to create intuitive educational tools using web technologies.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/ff1c3c1a-4e61-46d3-9f3d-2d777446dd37)
+![Image](https://github.com/user-attachments/assets/a1974cbf-2e26-4191-bcd3-de5fbcac315c)
+![Image](https://github.com/user-attachments/assets/27970ce4-a6cb-495c-8f3e-8a95cd37fa56)
